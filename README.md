@@ -5,8 +5,7 @@ This repository contains a sample React app, built using **Vite**, that uses a B
 
 Read more in this article: [Share React Components Across Projects with Git Submodules](https://formfusion.dev/blog/2023/05/sharing-react-components-across)
 
-**Demo**: https://first-app-smitevskas-projects.vercel.app/ <br/>
-**Playground**: https://stackblitz.com/~/github.com/mitevskasara/first-app?file=README.md
+**Demo**: https://second-app-smitevskas-projects.vercel.app/
 
 ## Table of Contents
 - [Getting Started](#getting-started)
